@@ -1,0 +1,5 @@
+site_name: "FastAPI Application cicd-test-5"
+site_description: "This is simple FastAPI application created using Uvicorn framework. Test cicd-test-5"
+
+nav:
+  - Introduction: index.md
